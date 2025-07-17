@@ -36,7 +36,7 @@ Before starting the project, ensure you have the following prerequisites:
 
 - GitHub - a repository for your project code
 
-https://github.com/clement2019/github-actions-ec2-infrastructure-terraform.git
+https://github.com/Seun07/github-actions-ec2-infrastructure-terraform.git
 
 
 ### Project Workflow
