@@ -1,5 +1,5 @@
 resource "aws_instance" "web" {
-  #ami                         = data.aws_ami.latest-amazon-linux-image.id
+ 
   ami                         = var.ami
   instance_type               = var.instance_type
   key_name                    = var.key_name
